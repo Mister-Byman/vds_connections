@@ -12,4 +12,4 @@ def monitor_port(port):
         client_socket.close()
 
 if __name__ == '__main__':
-    monitor_port(80)
+    monitor_port(22)
